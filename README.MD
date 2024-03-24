@@ -9,7 +9,7 @@ Chen Zhao1, Michele Esposito2, Zhihui Xu3, Weihua Zhou4,5
 
 Corresponding author: Dr. Weihua Zhou @ (whzhou@mtu.edu)
 
-![alt text](demo_output/test1_RAO_CAU<->template1_RAO_CAU_match.png)
+![alt text](demo_output/demo.png)
 
 ## Environment setup:
 
